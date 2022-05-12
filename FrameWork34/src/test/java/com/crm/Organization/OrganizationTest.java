@@ -7,7 +7,7 @@ public class OrganizationTest {
 	public void createOrganization() {
 		System.out.println("Organization is created");
 	}
-	//this is regtest
+	//this is regression
 	@Test(groups="regressionTest")
 	public void modifyOrganization() {
 		System.out.println("Organization is modified");
