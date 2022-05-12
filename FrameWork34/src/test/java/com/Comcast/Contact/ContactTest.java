@@ -1,7 +1,7 @@
 package com.Comcast.Contact;
 
 import org.testng.annotations.Test;
-//hii vijay
+//vijay monster
 public class ContactTest {
 	@Test(groups="smokeTest")
 	public void createContact() {
